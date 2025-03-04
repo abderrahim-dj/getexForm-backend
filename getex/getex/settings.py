@@ -183,7 +183,7 @@ SIMPLE_JWT = {
 
 #link frontend
 CORS_ALLOWED_ORIGINS = [
-    'https://formulaire-getex.vercel.app/'
+    'https://formulaire-getex.vercel.app'
 ]
 
 
