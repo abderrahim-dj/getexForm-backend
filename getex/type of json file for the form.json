@@ -1,0 +1,81 @@
+{
+    "Industry_Type": "TEXTILE",
+    "Sector_Type": "FINISHED_PRODUCTS",
+    "Specialization": "Workshop",
+    "First_Name": "Ramy",
+    "Last_Name": "Bouchareb",
+    "Wilaya": "16",
+    "Commune": "Bab El Oued",
+    "Email": "ramybouchareb@outlook.com",
+    "Phone": 772864262,
+    "Name_Institution": "KR2",
+    "Activity": "Events",
+    "Institution_Establishment_Year": 2024,
+    "Start_Activity_Year": 2025,
+    "Commercial_Registration_Number": "123123",
+    "Tax_Identification_Number": "123123",
+    "Legal_Form": "2",
+    "Legal_Status": "2",
+    "Number_Direct_Jobs": 3,
+    "Number_Indirect_Jobs": 0,
+    "Total_Covered_Storage_Area": 0,
+    "Total_Uncovered_Storage_Area": 20,
+    "Origin_Ownership": "1",
+    "Shortage_In_Raw_Material": true,
+    "Benefit_From_Public_Agencies_Support": true,
+    "products": [
+        {
+            "Product_Name": "T-shirts",
+            "Production_Capacity_Monthly": "2000",
+            "Actual_Production_Volume": "100",
+            "Target_Market": "Algeria",
+            "Target_Audience": "Everyone"
+        },
+        {
+            "Product_Name": "Banners",
+            "Production_Capacity_Monthly": "0",
+            "Actual_Production_Volume": "3",
+            "Target_Market": "Algeria",
+            "Target_Audience": "men"
+        }
+    ],
+    "raw_materials": [
+        {
+            "Raw_Material": "Shirts",
+            "Monthly_Consumption": "1500",
+            "Source": "2",
+            "Source_Country": "Algeria",
+            "Is_Scarce": true,
+            "Quantities_Required_To_Reach_Maximum_Production_Capacity_Monthly": "2000"
+        },
+        {
+            "Raw_Material": "Paper",
+            "Monthly_Consumption": "1000",
+            "Source": "2",
+            "Source_Country": "Algeria",
+            "Is_Scarce": true,
+            "Quantities_Required_To_Reach_Maximum_Production_Capacity_Monthly": "0"
+        },
+        {
+            "Raw_Material": "Ink",
+            "Monthly_Consumption": "100",
+            "Source": "1",
+            "Source_Country": "Chine",
+            "Is_Scarce": true,
+            "Quantities_Required_To_Reach_Maximum_Production_Capacity_Monthly": "0"
+        }
+    ],
+    "public_agencies_services": [
+        {
+            "List_Agencies_And_Services": "Doula yaw"
+        }
+    ],
+    "production_obstacles": [
+        {
+            "Reasons_For_Not_Achieving_Max_Capacity": [
+                5
+            ],
+            "More_Obstacles": "Lack of marketing no customers"
+        }
+    ]
+}
